@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="BBCNEWSHD_logo.png" group-title="UK Channels", BBC News HD
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBC One 2022" tvg-name="BBC One 2022" tvg-logo="BBC1-2022_logo.png" group-title="UK Channels", BBC One 2022
+https://cdnuk001.broadcastcdn.net/KUK-BBC1-2022/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="BBC2_logo.png" group-title="UK Channels", BBC Two
+https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="CHANNEL4_logo.png" group-title="UK Channels", Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="FIVE_logo.png" group-title="UK Channels", Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="CBBC_logo.png" group-title="UK Channels", CBBC
+https://cdnuk001.broadcastgmt.net/KUK-CBBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tiny Pop" tvg-name="Tiny Pop" tvg-logo="TinyPop_logo.png" group-title="UK Channels", Tiny Pop
+https://list.iptvcat.com/my_list/s/289aeae4378fb9dccc590cee0e020847.m3u8
