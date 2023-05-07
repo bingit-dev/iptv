@@ -12,7 +12,7 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Channel_5_Logo_2016_PNG.png" group-title="Entertainment", Channel 5
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/CBBC_logo_%28June_2022%29.png" group-title="Kids", CBBC
-https://cdnuk001.broadcastcdn.net/KUK-CBBC/tracks-v1a1/mono.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/CBeebies_logo_2022.png" group-title="Kids", CBeebies
 https://cdnuk001.broadcastcdn.net/KUK-CBEEBIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BT Sport" tvg-name="BT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport", BT Sport
