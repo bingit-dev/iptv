@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png" group-title="News", BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ASky_News_logo.svg&psig=AOvVaw3gMOA_J5Jz2UdwSjeLr3iJ&ust=1683576002188000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjXk77_4_4CFQAAAAAdAAAAABAE" group-title="News", Sky News
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://epg.pw/stream/7732155c411d11ffad95a502363d1003627acebc1f9ac8ea0b86ba19345d7f1d.ctv
 #EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Entertainment", BBC One
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+https://epg.pw/stream/9fab32fad1e8a43d20f6a9b40f49467384e4b098fb84b23c7fbd73559d7bb4f6.ctv
 #EXTINF:-1 tvg-id="BBC Two NI" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1200px-BBC_Two_logo_2021.svg.png" group-title="Entertainment", BBC Two
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Channel_4_%281982%29.svg/revision/latest?cb=20210622210147" group-title="Entertainment", Channel 4
