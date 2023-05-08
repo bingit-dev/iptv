@@ -1,0 +1,45 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv1r4ghjv3d6y984"
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png" group-title="News",BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ASky_News_logo.svg&psig=AOvVaw3gMOA_J5Jz2UdwSjeLr3iJ&ust=1683576002188000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjXk77_4_4CFQAAAAAdAAAAABAE" group-title="News",Sky News
+https://epg.pw/stream/7732155c411d11ffad95a502363d1003627acebc1f9ac8ea0b86ba19345d7f1d.ctv
+#EXTINF:-1 tvg-id="BBC One NI" tvg-name="BBC One NI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Entertainment",BBC One NI
+http://s21tv.co:80/live/PTV698058687205/900154016929/279610.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Entertainment",BBC One
+http://s21tv.co:80/live/PTV898442348344/672844472908/279610.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1200px-BBC_Two_logo_2021.svg.png" group-title="Entertainment",BBC Two
+http://s21tv.co:80/live/PTV898442348344/672844472908/279623.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Channel_4_%281982%29.svg/revision/latest?cb=20210622210147" group-title="Entertainment",Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Channel_5_Logo_2016_PNG.png" group-title="Entertainment",Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITV 1" tvg-name="ITV 1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FITV-Logo-2019-present.jpg&f=1&nofb=1&ipt=3ecaa5a81e78a36fd7b6fa01cb35ac1e16dbb50526a4f73a76ecfcf5f582eabc&ipo=images" group-title="Entertainment",ITV 1
+http://s21tv.co:80/live/PTV698058687205/900154016929/279001.m3u8
+#EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV 2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FITV-Logo-2019-present.jpg&f=1&nofb=1&ipt=3ecaa5a81e78a36fd7b6fa01cb35ac1e16dbb50526a4f73a76ecfcf5f582eabc&ipo=images" group-title="Entertainment",ITV 2
+http://s21tv.co:80/live/PTV698058687205/900154016929/279002.m3u8
+#EXTINF:-1 tvg-id="ITV 3" tvg-name="ITV 3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FITV-Logo-2019-present.jpg&f=1&nofb=1&ipt=3ecaa5a81e78a36fd7b6fa01cb35ac1e16dbb50526a4f73a76ecfcf5f582eabc&ipo=images" group-title="Entertainment",ITV 3
+http://s21tv.co:80/live/PTV698058687205/900154016929/279004.m3u8
+#EXTINF:-1 tvg-id="ITV 4" tvg-name="ITV 4" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FITV-Logo-2019-present.jpg&f=1&nofb=1&ipt=3ecaa5a81e78a36fd7b6fa01cb35ac1e16dbb50526a4f73a76ecfcf5f582eabc&ipo=images" group-title="Entertainment",ITV 4
+http://s21tv.co:80/live/PTV698058687205/900154016929/279007.m3u8
+#EXTINF:-1 tvg-id="ITV Be" tvg-name="ITV Be" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FITV-Logo-2019-present.jpg&f=1&nofb=1&ipt=3ecaa5a81e78a36fd7b6fa01cb35ac1e16dbb50526a4f73a76ecfcf5f582eabc&ipo=images" group-title="Entertainment",ITV Be
+http://s21tv.co:80/live/PTV698058687205/900154016929/279010.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/CBBC_logo_%28June_2022%29.png" group-title="Kids",CBBC
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/CBeebies_logo_2022.png" group-title="Kids",CBeebies
+https://cdnuk001.broadcastcdn.net/KUK-CBEEBIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPoynY2d_Bk7_YtTFgThh_v_2y00xd3to9ykR8BSbl&s" group-title="Kids",Nickelodeon
+http://s21tv.co:80/live/PTV698058687205/900154016929/279079.m3u8
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="Kids",NickToons
+http://s21tv.co:80/live/PTV698058687205/900154016929/279089.m3u8
+#EXTINF:-1 tvg-id="Pop" tvg-name="Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png" group-title="Kids",Pop
+http://s21tv.co:80/live/PTV698058687205/900154016929/279092.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
+http://s21tv.co:80/live/PTV698058687205/900154016929/279076.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="Kids",Boomerang
+http://s21tv.co:80/live/PTV698058687205/900154016929/279074.m3u8
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-name="BT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport",BT Sport 1
+http://s21tv.co:80/live/PTV698058687205/900154016929/279026.m3u8
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-name="BT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport",BT Sport 2
+http://s21tv.co:80/live/PTV698058687205/900154016929/279028.m3u8
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-name="BT Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport",BT Sport 3
+http://s21tv.co:80/live/PTV698058687205/900154016929/279030.m3u8
