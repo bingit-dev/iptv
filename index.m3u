@@ -17,3 +17,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 https://cdnuk001.broadcastcdn.net/KUK-CBEEBIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BT Sport" tvg-name="BT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport", BT Sport
 https://epg.pw/stream/53a869d23984ad5a8936d1e805a507f3986823cc1406f2c0f763f0ab093505b7.ctv
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport", BT Sport
+http://s21tv.co:80/live/PTV898442348344/672844472908/279079.m3u8
