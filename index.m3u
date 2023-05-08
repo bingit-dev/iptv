@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv1r4ghjv3d6y984"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/bingit-dev/iptv/main/EPG-Guide-20230508185335.xml"
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png" group-title="News",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ASky_News_logo.svg&psig=AOvVaw3gMOA_J5Jz2UdwSjeLr3iJ&ust=1683576002188000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjXk77_4_4CFQAAAAAdAAAAABAE" group-title="News",Sky News
