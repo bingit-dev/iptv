@@ -43,3 +43,9 @@ http://s21tv.co:80/live/PTV698058687205/900154016929/279004.m3u8
 http://s21tv.co:80/live/PTV698058687205/900154016929/279007.m3u8
 #EXTINF:-1 tvg-id="ITV Be" tvg-name="ITV Be" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FITV-Logo-2019-present.jpg&f=1&nofb=1&ipt=3ecaa5a81e78a36fd7b6fa01cb35ac1e16dbb50526a4f73a76ecfcf5f582eabc&ipo=images" group-title="Entertainment", ITV Be
 http://s21tv.co:80/live/PTV698058687205/900154016929/279010.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png?20230324164919" group-title="Kids", Cartoon Network
+http://s21tv.co:80/live/PTV898442348344/672844472908/279077.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest?cb=20171204084854" group-title="Entertainment", BBC Earth
+http://s21tv.co:80/live/PTV898442348344/672844472908/265385.m3u8
+#EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="Kids", 4Music
+http://s21tv.co:80/live/PTV898442348344/672844472908/10053.m3u8
