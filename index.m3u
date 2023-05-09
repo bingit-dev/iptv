@@ -47,5 +47,5 @@ http://s21tv.co:80/live/PTV698058687205/900154016929/279010.m3u8
 http://s21tv.co:80/live/PTV898442348344/672844472908/279077.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest?cb=20171204084854" group-title="Entertainment", BBC Earth
 http://s21tv.co:80/live/PTV898442348344/672844472908/265385.m3u8
-#EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="Kids", 4Music
+#EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="Entertainment", 4Music
 http://s21tv.co:80/live/PTV898442348344/672844472908/279118.m3u8
