@@ -4,15 +4,15 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ASky_News_logo.svg&psig=AOvVaw3gMOA_J5Jz2UdwSjeLr3iJ&ust=1683576002188000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjXk77_4_4CFQAAAAAdAAAAABAE" group-title="News", Sky News
 https://epg.pw/stream/7732155c411d11ffad95a502363d1003627acebc1f9ac8ea0b86ba19345d7f1d.ctv
 #EXTINF:-1 tvg-id="BBC One NI" tvg-name="BBC One NI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Entertainment", BBC One NI
-http://s21tv.co:80/live/PTV698058687205/900154016929/279610.m3u8
+http://s21tv.co:80/live/PTV898442348344/672844472908/279613.m3u8
 #EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Entertainment", BBC One
 http://s21tv.co:80/live/PTV898442348344/672844472908/279610.m3u8
 #EXTINF:-1 tvg-id="BBC Two NI" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1200px-BBC_Two_logo_2021.svg.png" group-title="Entertainment", BBC Two
 http://s21tv.co:80/live/PTV898442348344/672844472908/279623.m3u8
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Channel_4_%281982%29.svg/revision/latest?cb=20210622210147" group-title="Entertainment", Channel 4
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+http://s21tv.co:80/live/PTV898442348344/672844472908/279018.m3u8
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Channel_5_Logo_2016_PNG.png" group-title="Entertainment", Channel 5
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
+http://s21tv.co:80/live/PTV898442348344/672844472908/279021.m3u8
 #EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/CBBC_logo_%28June_2022%29.png" group-title="Kids", CBBC
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/CBeebies_logo_2022.png" group-title="Kids", CBeebies
